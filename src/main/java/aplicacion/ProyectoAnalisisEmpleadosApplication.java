@@ -1,4 +1,4 @@
-package proyectoAnalisisEmpleados.proyectoAnalisisEmpleados;
+package aplicacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
